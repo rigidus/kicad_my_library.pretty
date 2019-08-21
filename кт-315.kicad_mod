@@ -1,4 +1,4 @@
-(module кт-13 (layer F.Cu) (tedit 5D5D3A33)
+(module кт-315 (layer F.Cu) (tedit 5D5D3A33)
   (fp_text reference Q1 (at 0.25 1.25) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
